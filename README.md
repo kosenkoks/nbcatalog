@@ -1,8 +1,10 @@
 ## Порядок установки
 
-Склонировать репозиторий в папку /local/modules/kosenko.notebookshop <br>
-Установить модуль через админку /bitrix/admin/partner_modules.php?lang=ru <br>
-Разместить комплексный компонент Магазин ноутбуков (nbcatalog) и настроить ЧПУ <br>
+Склонировать репозиторий в папку **/local/modules/kosenko.notebookshop**
+
+Установить модуль через админку **/bitrix/admin/partner_modules.php?lang=ru**
+
+Разместить комплексный компонент Магазин ноутбуков (nbcatalog) и настроить ЧПУ
 
 ## Пример настроек компонента
 
