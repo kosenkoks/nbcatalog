@@ -6,6 +6,7 @@
 
 ## Пример настроек компонента
 
+'''php
 $APPLICATION->IncludeComponent(
 	"kosenko:nbcatalog",
 	"",
@@ -15,4 +16,4 @@ $APPLICATION->IncludeComponent(
 		"SEF_URL_TEMPLATES" => Array("detail"=>"detail/#NOTEBOOK#/","model"=>"#BRAND#/#MODEL#/","vendor"=>"#BRAND#/","vendors"=>"")
 	)
 );
-
+'''
